@@ -56,8 +56,10 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgba(0,0,0,.75);
+  background-color: #ffffff;
+  font-family: "proxima-nova", sans-serif;
+  font-size: .75rem;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,22 +67,20 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 22rem;
     text-align: left;
   }
 }
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: rgba(0,0,0,.75);
+  text-decoration: underline;
 }
 
 /* About section */
-.sidebar-about h1 {
-  color: #fff;
+.sidebar-about p {
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
 }
 
 /* Sidebar nav */
