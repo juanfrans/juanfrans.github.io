@@ -54,7 +54,7 @@ html {
  */
 
 .sidebar {
-  text-align: center;
+  text-align: left;
   padding: 2rem 1rem;
   color: rgba(0,0,0,.75);
   background-color: #ffffff;
