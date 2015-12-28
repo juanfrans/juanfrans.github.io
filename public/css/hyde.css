@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 12px;
+    font-size: 14px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
@@ -59,7 +59,7 @@ html {
   color: rgba(0,0,0,.75);
   background-color: #ffffff;
   font-family: "proxima-nova", sans-serif;
-  font-size: .75rem;
+  font-size: .85rem;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -67,8 +67,11 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 22rem;
+    width: 35%;
     text-align: left;
+    border-color: #b2b2b2;
+    border-left-style: dotted;
+    border-width: .1rem;
   }
 }
 
@@ -110,7 +113,7 @@ a.sidebar-nav-item:focus {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
-    left:   1rem;
+    left:   0rem;
   }
 }
 
@@ -122,7 +125,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
@@ -151,7 +154,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .layout-reverse .sidebar {
     left: auto;
-    right: 0;
+    right: 1rem;
   }
   .layout-reverse .content {
     margin-left: 2rem;
