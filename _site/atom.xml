@@ -4,7 +4,7 @@
  <title>Juan Francisco Saldarriaga</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2015-12-28T13:16:14+01:00</updated>
+ <updated>2015-12-28T14:04:16+01:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Juan Francisco Saldarriaga</name>
@@ -17,13 +17,15 @@
    <link href="http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge/"/>
    <updated>2014-11-01T00:00:00+01:00</updated>
    <id>http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;01/Images/Barcelona_Cycle_Challenge.png&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;01_Images/Barcelona_Cycle_Challenge.png&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;During the two months of the &lt;em&gt;Barcelona Cycle Challenge 2014&lt;/em&gt; thousands of bicycle rides (???) were taken around the city. To visualize all of this activity, we created this animation mapping out the routes that people take and tallying up the number of kilometers ridden by each of the participating neighborhoods. We also compressed all the rides into a single day, giving a better idea of the commuting patterns of Barcelona bicycle riders.&lt;/p&gt;
+&lt;p&gt;During the two months of the &lt;em&gt;Barcelona Cycle Challenge 2014&lt;/em&gt; thousands of bicycle rides were taken around the city. To visualize all of this activity, we created an animation mapping out the routes that people take and tallying up the number of kilometers ridden by each of the participating neighborhoods. To give a better idea of the commuting patterns of bike riders in Barcelona, this animation compresses all the rides into a single day.&lt;/p&gt;
 
-&lt;p&gt;This project was done in collaboration with &lt;a href=&quot;?????&quot;&gt;Play To Ride&lt;/a&gt; (??? insert link here) and was programmed using &lt;a href=&quot;http://processing.org&quot;&gt;Processing&lt;/a&gt; (??? verify this link).&lt;/p&gt;
+&lt;p&gt;This project was done in collaboration with &lt;em&gt;Play To Ride&lt;/em&gt; and was programmed using &lt;a href=&quot;http://processing.org&quot;&gt;Processing&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Insert animation video here.&lt;/p&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/111134228&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/111134228&quot;&gt;Barcelona Cycle Challenge - 2014&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/juanfrans&quot;&gt;Juan Francisco Saldarriaga&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
