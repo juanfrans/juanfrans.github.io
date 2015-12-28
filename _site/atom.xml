@@ -4,13 +4,28 @@
  <title>Juan Francisco Saldarriaga</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2015-12-25T18:53:22+01:00</updated>
+ <updated>2015-12-26T11:09:50+01:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Juan Francisco Saldarriaga</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Barcelona Cycle Challenge</title>
+   <link href="http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge/"/>
+   <updated>2014-11-01T00:00:00+01:00</updated>
+   <id>http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;During the two months of the &lt;em&gt;Barcelona Cycle Challenge 2014&lt;/em&gt; thousands of bicycle rides (???) were taken around the city. To visualize all of this activity, we created this animation mapping out the routes that people take and tallying up the number of kilometers ridden by each of the participating neighborhoods. We also compressed all the rides into a single day, giving a better idea of the commuting patterns of Barcelona bicycle riders.&lt;/p&gt;
+
+&lt;p&gt;This project was done in collaboration with &lt;a href=&quot;?????&quot;&gt;Play To Ride&lt;/a&gt; (??? insert link here) and was programmed using &lt;a href=&quot;http://processing.org&quot;&gt;Processing&lt;/a&gt; (??? verify this link).&lt;/p&gt;
+
+&lt;p&gt;Insert animation video here.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Introducing Hyde</title>
@@ -111,8 +126,7 @@
 
 &lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
 
-&lt;p&gt;&lt;noscript&gt;&lt;pre&gt;400: Invalid request
-&lt;/pre&gt;&lt;/noscript&gt;&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;true&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
 
