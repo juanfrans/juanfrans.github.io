@@ -19,13 +19,15 @@
   <link rel="stylesheet" href="public/css/poole.css">
   <link rel="stylesheet" href="public/css/syntax.css">
   <link rel="stylesheet" href="public/css/hyde.css">
+
+  <!-- Fonts -->
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
   <script src="https://use.typekit.net/cwt3alf.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-144-precomposed.png">
-                                 <link rel="shortcut icon" href="public/favicon.ico">
+  <link rel="shortcut icon" href="public/favicon.ico">
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
@@ -44,10 +46,10 @@
     </h1>
     <p class="lead"></p>
     -->
-    <p>Hi! I'm <b>Juan Francisco Saldarriaga</b>. I am a <i>Research Scholar</i> at the <a href="http://c4sr.columbia.edu/">Center for Spatial Research</a> at Columbia University and an <i>Adjunct Assistant Professor of Urban Planning and Architecture</i> at the <a href="http://www.arch.columbia.edu/"> Graduate School of Architecture, Planning and Preservation (GSAPP)</a>.</p>
+    <p>Hi! I'm <b>Juan Francisco Saldarriaga</b>. I am a researcher at the <a href="http://c4sr.columbia.edu/">Center for Spatial Research</a> at Columbia University and an adjunct assistant professor of urban planning and architecture at the <a href="http://www.arch.columbia.edu/"> Graduate School of Architecture, Planning and Preservation (GSAPP)</a>.</p>
 <p>I do research at the intersection of <i>data</i>, <i>GIS</i>, <i>urbanism</i>, <i>architecture</i> and the <i>humanities</i> and I teach graduate level seminars on <i>mapping</i>, <i>advanced GIS</i> and <i>data visualization</i>. I also do freelance and consulting work on these topics.</p>
 <p>In the past I've worked as a research scholar at the <a href="http://spatialinformationdesignlab.org/">Spatial Information Design Lab</a>, an architectural designer for <a href="http://www.cz-studio.com/">Carlos Zapata Studio</a> and <a href="http://www.dgtarchitects.com/">D.G.T. Architects</a>, and as the GIS project coordinator for the <a href="http://www.catholiccharitiesny.org/">Catholic Charities</a>.</p>
-<p>You can also find me on Twitter <a href="https://twitter.com/juanfrans">@juanfrans</a> and on Github at <a href="https://github.com/juanfrans">github.com/juanfrans</a>. Or me at <a href="mailto:juanfrans@gmail.com">juanfrans at gmail dot com</a>.<p>
+<p>You can also find me on Twitter <a href="https://twitter.com/juanfrans">@juanfrans</a> and on Github at <a href="https://github.com/juanfrans">github.com/juanfrans</a>. Or email me <a href="mailto:juanfrans@gmail.com">here</a>.<p>
   </div>
 
   <nav class="sidebar-nav">
@@ -63,10 +65,14 @@
     
       
         
-          <a class="sidebar-nav-item" href="/about/">About</a>
+          <a class="sidebar-nav-item" href="/about.html">About</a>
         
       
     
+      
+    
+      
+        
       
     
       
@@ -78,7 +84,7 @@
     <a class="sidebar-nav-item" href="https://github.com/juanfrans/juanfrans.github.io">GitHub project</a>
   </nav>
   <div class="container sidebar-sticky">
-    <p>&copy; 2015. All rights reserved.</p>
+    <p>&copy; 2016. All rights reserved.</p>
   </div>
 </div>
 
@@ -88,7 +94,7 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/2014/11/01/Barcelona-Bicycle-Challenge/">
+      <a href="/Barcelona-Bicycle-Challenge">
         Barcelona Cycle Challenge
       </a>
     </h1>
@@ -109,7 +115,76 @@
   
   <div class="post">
     <h1 class="post-title">
-      <a href="/2013/12/28/introducing-hyde/">
+      <a href="/Citibike-Rebalancing">
+        Citibike Rebalancing Study
+      </a>
+    </h1>
+
+    <span class="post-date">01 Jun 2014</span>
+
+    <p><img src="01_Images/Citibike_Rebalancing_Main.png"></p>
+
+<p>This project was developed at the <a href="http://spatialinformationdesignlab.org/">Spatial Information Design Lab</a> at Columbia University.</p>
+
+<p>As has been recently documented by the press, one of the major challenges that Citibike is facing is the rebalancing of their stations. As origins and destinations of Citibike trips are not necessarily symmetrical during the day, Citibike has been forced to constantly move bikes around the city, taking them from full stations and delivering them to empty ones. This problem is both financially expensive and frustrating for Citibike users: many people complain about either not finding bikes at their stations of origin or not finding empty spots when they arrive at their final destinations.</p>
+
+<p>To study this problem we have created a series of visualizations which should serve as a starting point for further analysis.</p>
+
+<p>First, we visualized the average activity for weekdays in October 2013. As the animation below shows, the activity hotspots remain pretty constant throughout the day, specially between 10am and midnight, with most of the activity centered around Union Square. In addition, we also see how both Grand Central and Penn Station become strong hotspots during peak hours. Of interest, though, is the sudden shift that occurs around 5am, with the activity hotspots switching from the East Village/Lower East Side area, to Grand Central and Penn Station. This is probably due to the fact that during most of the night, compared to other areas, the stations in the East Village/Lower East Side continue to have high activity, but during most of the day, and specially during peak hours, they are not as active as the stations around Union Square or Grand Central and Penn Station.</p>
+
+<p><img src="01_Images/Citibike_Hourly_Activity_01.gif"></p>
+
+<p>Here&#39;s the same visualization at a faster speed.</p>
+
+<p><img src="01_Images/Citibike_Hourly_Activity_02.gif"></p>
+
+<p>Next, we visualized overall patterns of origins and destinations. As the image below shows, the big hotspots of imbalance are mostly located around the East Village, Lower East Side, Midtown East and West and Union Square. However, the variation of these hotspots throughout the day is pretty extensive and it&#39;s very difficult to detect smooth transitions apart from peak hours. Of note are a couple of big &quot;jumps&quot; between origins and destinations, one of them around 1-2pm on the East Village/Lower East Side and another one around 5am also in the same area.</p>
+
+<p><img src="01_Images/Citibike_Hour_by_Hour_01.gif"></p>
+
+<p>Below is the same visualization at a faster speed.</p>
+
+<p><img src="01_Images/Citibike_Hour_by_Hour_02.gif"></p>
+
+<p>We also created a series of imbalance matrices (by hour of day) for every single station on the system. Again, using the same data as the animations above, this first matrix clearly shows how the big imbalances happen (as expected) mainly between 6am and 10am (morning peak hour) and between 4pm and 8pm (evening peak hour). However, there are some stations whose imbalance starts and ends earlier, like 8th Ave. &amp; 31st Street, W 33rd Street &amp; 7th Ave. and W 41st Street &amp; 8th Ave. (more origins than destinations starting around 2pm). In addition, this matrix also shows that not all of the stations suffer from big imbalances during peak hours. Indeed, stations like E 31st Street &amp; 3rd Ave or E 32nd Street &amp; Park Ave. barely have any imbalances during peak hours. You can download a high-res version of this matrix <a href="https://dl.dropboxusercontent.com/u/7595728/Imbalance_Matrix_SIDL.pdf">here</a>.</p>
+
+<p><img src="01_Images/Citibike_Rebalancing_Columns.jpg"></p>
+
+<p>The graph below is another way of looking at the same data: each dial represents one station and shows both the activity and the level of imbalance per hour for an average day in October. The activity is represented by the length of each bar showing the percentage of the total daily activity for every hour; and the direction and level of imbalance are represented by the color of the bar and the intensity of the hue. You can download the hi-res version of this graph <a href="https://dl.dropboxusercontent.com/u/7595728/Rebalance_SIDL_Site/Station_Dials.pdf">here</a>.</p>
+
+<p><img src="01_Images/Citibike_Rebalancing_Dials.png"></p>
+
+<p>Furthermore, as not all of the stations have the same level of activity, we produced two more matrices, both showing station imbalance, but this time comparing it to the overall hourly activity for each station. This first one shows the imbalance as a percentage of the activity for that hour. Hence, the great imbalances appearing late at night, when there are fewer trips and there&#39;s a higher chance of having all of them as origins or destinations. However, it is still interesting to see that there are higher imbalances during the morning peak hour than during the evening one, as a percentage of the overall activity.</p>
+
+<p><img src="01_Images/Citibike_Rebalancing_Columns_02.png"></p>
+
+<p>This second matrix shows the imbalance as colors and the overall activity as brightness, so we can see how in the hours between the peak times there&#39;s still a lot of activity but it is mostly well balanced. In addition, we can see how late at night (imbalanced as it may be) there&#39;s still very little activity. Finally, we can also see some outlier stations with a lot of activity and still pretty imbalanced: for example, in the morning 8th avenue and 31st street, 17th street and Broadway, Lafayette and 8th street, and Pershing Square (north); and in the evening 8th avenue and 31st street, 41st street and 8th avenue and again Pershing Square (north). You can download both of these matrices at high-res <a href="https://dl.dropboxusercontent.com/u/7595728/Activity_Matrix_Normalized.pdf">here</a> and <a href="https://dl.dropboxusercontent.com/u/7595728/Activity_Matrix_Composite.pdf">here</a>.</p>
+
+<p><img src="01_Images/Citibike_Rebalancing_Columns_02.png"></p>
+
+<p>Finally, we have created hotspot maps for both the AM and the PM peak hours. As you can see from the maps below, Citibike activity closely matches what we would expect to see in New York: the AM peak hour map shows people leaving residential neighborhoods (Lower East Side, East Village, Chelsea and Hells Kitchen) and arriving at Midtown East and the Financial District, and the PM peak hour map shows the reverse. To note, however, is the fact that these two maps are not completely symmetrical, meaning that there are certain trips that happen in the morning which do not have their counterpart in the evening, and vice versa. Also, there are some stations that while being inside imbalance hotspots do not show that large of an imbalance. These stations have been outlined on the maps and should be further studied. You can view high-res versions of these maps here: <a href="https://dl.dropboxusercontent.com/u/7595728/October_Peak_Hour_Weekday_AM.pdf">AM</a> and <a href="https://dl.dropboxusercontent.com/u/7595728/October_Peak_Hour_Weekday_PM.pdf">PM</a>.</p>
+
+<p><img src="01_Images/Citibike_Hotspot_AM.png"></p>
+
+<p><img src="01_Images/Citibike_Hotspot_PM.png"></p>
+
+<p>Further analysis:</p>
+
+<p>All the visualizations above were created using the &quot;trip&quot; data, available <a href="http://www.citibikenyc.com/system-data">here</a>, which contains every single CitiBike trip. However, CitiBike also releases &quot;<a href="http://www.citibikenyc.com/stations/json">station</a>&quot; data, in json format, which is updated every two minutes and contains information on how many bikes area available at each station and how many empty docks there are. With this dataset we created the next series of graphs, in an effort to visualize how full or empty a station was during the first week of May 2014.</p>
+
+<p>In these series the blue and orange colors indicate that the stations are either more than 80% full or less than 20% full. In this first graph, one can also see the peak hours during the weekdays - represented by a greater density of lines - and the absence of those during Saturday and Sunday. In general though, these graphs show the magnitude of the problem with most stations being either almost empty or full - mostly empty - most of the time.</p>
+
+<p><img src="01_Images/Citibike_Line_Graph.png"></p>
+
+<p>Finally, this last graph also uses the &quot;station&quot; data. However, here every row represents a station and every column its status for those two minutes. As in the images before, one can see that most of the time, the majority of stations are either less than 20% empty or more than 80% full, with an emphasis on emptiness. It is also possible to see the peak hours and the difference between weekdays and the weekend.</p>
+
+<p><img src="01_Images/Citibike_DNA_Graph.png"></p>
+
+  </div>
+  
+  <div class="post">
+    <h1 class="post-title">
+      <a href="/introducing-hyde">
         Introducing Hyde
       </a>
     </h1>
@@ -155,183 +230,11 @@
 
   </div>
   
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2012/02/07/example-content/">
-        Example content
-      </a>
-    </h1>
-
-    <span class="post-date">07 Feb 2012</span>
-
-    <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
-
-<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. <em>Aenean eu leo quam.</em> Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-
-<blockquote>
-<p>Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-</blockquote>
-
-<p>Etiam porta <strong>sem malesuada magna</strong> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
-
-<h2>Inline HTML elements</h2>
-
-<p>HTML defines a long list of available inline tags, a complete list of which can be found on the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Mozilla Developer Network</a>.</p>
-
-<ul>
-<li><strong>To bold text</strong>, use <code>&lt;strong&gt;</code>.</li>
-<li><em>To italicize text</em>, use <code>&lt;em&gt;</code>.</li>
-<li>Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use <code>&lt;abbr&gt;</code>, with an optional <code>title</code> attribute for the full phrase.</li>
-<li>Citations, like <cite>&mdash; Mark otto</cite>, should use <code>&lt;cite&gt;</code>.</li>
-<li><del>Deleted</del> text should use <code>&lt;del&gt;</code> and <ins>inserted</ins> text should use <code>&lt;ins&gt;</code>.</li>
-<li>Superscript <sup>text</sup> uses <code>&lt;sup&gt;</code> and subscript <sub>text</sub> uses <code>&lt;sub&gt;</code>.</li>
-</ul>
-
-<p>Most of these elements are styled by browsers with few modifications on our part.</p>
-
-<h2>Heading</h2>
-
-<p>Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-
-<h3>Code</h3>
-
-<p>Cum sociis natoque penatibus et magnis dis <code>code element</code> montes, nascetur ridiculus mus.</p>
-
-<div class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Example can be run directly in your JavaScript console</span>
-
-<span class="c1">// Create a function that takes two arguments and returns the sum of those arguments</span>
-<span class="kd">var</span> <span class="nx">adder</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="s2">&quot;a&quot;</span><span class="p">,</span> <span class="s2">&quot;b&quot;</span><span class="p">,</span> <span class="s2">&quot;return a + b&quot;</span><span class="p">);</span>
-
-<span class="c1">// Call the function</span>
-<span class="nx">adder</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">6</span><span class="p">);</span>
-<span class="c1">// &gt; 8</span></code></pre></div>
-
-<p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
-
-<h3>Gists via GitHub Pages</h3>
-
-<p>Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.</p>
-
-<p><noscript><pre>400: Invalid request
-</pre></noscript><script src="https://gist.github.com/5555251.js?file=gist.md"> </script></p>
-
-<p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.</p>
-
-<h3>Lists</h3>
-
-<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-
-<ul>
-<li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
-<li>Donec id elit non mi porta gravida at eget metus.</li>
-<li>Nulla vitae elit libero, a pharetra augue.</li>
-</ul>
-
-<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
-
-<ol>
-<li>Vestibulum id ligula porta felis euismod semper.</li>
-<li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-<li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
-</ol>
-
-<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-<p>Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-
-<h3>Images</h3>
-
-<p>Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.</p>
-
-<p><img src="http://placehold.it/800x400" alt="placeholder" title="Large example image">
-<img src="http://placehold.it/400x200" alt="placeholder" title="Medium example image">
-<img src="http://placehold.it/200x200" alt="placeholder" title="Small example image"></p>
-
-<h3>Tables</h3>
-
-<p>Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
-
-<hr>
-
-<p>Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a></p>
-
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="/2012/02/06/whats-jekyll/">
-        What's Jekyll?
-      </a>
-    </h1>
-
-    <span class="post-date">06 Feb 2012</span>
-
-    <p><a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/mojombo/jekyll/blob/master/README.markdown">the project&#39;s readme</a>:</p>
-
-<blockquote>
-<p>Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</p>
-</blockquote>
-
-<p>It&#39;s an immensely useful tool and one we encourage you to use here with Hyde.</p>
-
-<p>Find out more by <a href="https://github.com/mojombo/jekyll">visiting the project on GitHub</a>.</p>
-
-  </div>
-  
 </div>
 
 <div class="pagination">
   
-    <span class="pagination-item older">Older</span>
+    <a class="pagination-item older" href="page2">Older</a>
   
   
     <span class="pagination-item newer">Newer</span>

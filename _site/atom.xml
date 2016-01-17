@@ -4,7 +4,7 @@
  <title>Juan Francisco Saldarriaga</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2015-12-28T14:04:16+01:00</updated>
+ <updated>2016-01-16T19:01:56-05:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Juan Francisco Saldarriaga</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Barcelona Cycle Challenge</title>
-   <link href="http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge/"/>
-   <updated>2014-11-01T00:00:00+01:00</updated>
-   <id>http://hyde.getpoole.com/2014/11/01/Barcelona-Bicycle-Challenge</id>
+   <link href="http://hyde.getpoole.com/Barcelona-Bicycle-Challenge"/>
+   <updated>2014-11-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/Barcelona-Bicycle-Challenge</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;01_Images/Barcelona_Cycle_Challenge.png&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;During the two months of the &lt;em&gt;Barcelona Cycle Challenge 2014&lt;/em&gt; thousands of bicycle rides were taken around the city. To visualize all of this activity, we created an animation mapping out the routes that people take and tallying up the number of kilometers ridden by each of the participating neighborhoods. To give a better idea of the commuting patterns of bike riders in Barcelona, this animation compresses all the rides into a single day.&lt;/p&gt;
@@ -30,10 +30,75 @@
  </entry>
  
  <entry>
+   <title>Citibike Rebalancing Study</title>
+   <link href="http://hyde.getpoole.com/Citibike-Rebalancing"/>
+   <updated>2014-06-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/Citibike-Rebalancing</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Rebalancing_Main.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This project was developed at the &lt;a href=&quot;http://spatialinformationdesignlab.org/&quot;&gt;Spatial Information Design Lab&lt;/a&gt; at Columbia University.&lt;/p&gt;
+
+&lt;p&gt;As has been recently documented by the press, one of the major challenges that Citibike is facing is the rebalancing of their stations. As origins and destinations of Citibike trips are not necessarily symmetrical during the day, Citibike has been forced to constantly move bikes around the city, taking them from full stations and delivering them to empty ones. This problem is both financially expensive and frustrating for Citibike users: many people complain about either not finding bikes at their stations of origin or not finding empty spots when they arrive at their final destinations.&lt;/p&gt;
+
+&lt;p&gt;To study this problem we have created a series of visualizations which should serve as a starting point for further analysis.&lt;/p&gt;
+
+&lt;p&gt;First, we visualized the average activity for weekdays in October 2013. As the animation below shows, the activity hotspots remain pretty constant throughout the day, specially between 10am and midnight, with most of the activity centered around Union Square. In addition, we also see how both Grand Central and Penn Station become strong hotspots during peak hours. Of interest, though, is the sudden shift that occurs around 5am, with the activity hotspots switching from the East Village/Lower East Side area, to Grand Central and Penn Station. This is probably due to the fact that during most of the night, compared to other areas, the stations in the East Village/Lower East Side continue to have high activity, but during most of the day, and specially during peak hours, they are not as active as the stations around Union Square or Grand Central and Penn Station.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hourly_Activity_01.gif&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s the same visualization at a faster speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hourly_Activity_02.gif&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, we visualized overall patterns of origins and destinations. As the image below shows, the big hotspots of imbalance are mostly located around the East Village, Lower East Side, Midtown East and West and Union Square. However, the variation of these hotspots throughout the day is pretty extensive and it&amp;#39;s very difficult to detect smooth transitions apart from peak hours. Of note are a couple of big &amp;quot;jumps&amp;quot; between origins and destinations, one of them around 1-2pm on the East Village/Lower East Side and another one around 5am also in the same area.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hour_by_Hour_01.gif&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Below is the same visualization at a faster speed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hour_by_Hour_02.gif&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We also created a series of imbalance matrices (by hour of day) for every single station on the system. Again, using the same data as the animations above, this first matrix clearly shows how the big imbalances happen (as expected) mainly between 6am and 10am (morning peak hour) and between 4pm and 8pm (evening peak hour). However, there are some stations whose imbalance starts and ends earlier, like 8th Ave. &amp;amp; 31st Street, W 33rd Street &amp;amp; 7th Ave. and W 41st Street &amp;amp; 8th Ave. (more origins than destinations starting around 2pm). In addition, this matrix also shows that not all of the stations suffer from big imbalances during peak hours. Indeed, stations like E 31st Street &amp;amp; 3rd Ave or E 32nd Street &amp;amp; Park Ave. barely have any imbalances during peak hours. You can download a high-res version of this matrix &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/Imbalance_Matrix_SIDL.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Rebalancing_Columns.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;The graph below is another way of looking at the same data: each dial represents one station and shows both the activity and the level of imbalance per hour for an average day in October. The activity is represented by the length of each bar showing the percentage of the total daily activity for every hour; and the direction and level of imbalance are represented by the color of the bar and the intensity of the hue. You can download the hi-res version of this graph &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/Rebalance_SIDL_Site/Station_Dials.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Rebalancing_Dials.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Furthermore, as not all of the stations have the same level of activity, we produced two more matrices, both showing station imbalance, but this time comparing it to the overall hourly activity for each station. This first one shows the imbalance as a percentage of the activity for that hour. Hence, the great imbalances appearing late at night, when there are fewer trips and there&amp;#39;s a higher chance of having all of them as origins or destinations. However, it is still interesting to see that there are higher imbalances during the morning peak hour than during the evening one, as a percentage of the overall activity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Rebalancing_Columns_02.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;This second matrix shows the imbalance as colors and the overall activity as brightness, so we can see how in the hours between the peak times there&amp;#39;s still a lot of activity but it is mostly well balanced. In addition, we can see how late at night (imbalanced as it may be) there&amp;#39;s still very little activity. Finally, we can also see some outlier stations with a lot of activity and still pretty imbalanced: for example, in the morning 8th avenue and 31st street, 17th street and Broadway, Lafayette and 8th street, and Pershing Square (north); and in the evening 8th avenue and 31st street, 41st street and 8th avenue and again Pershing Square (north). You can download both of these matrices at high-res &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/Activity_Matrix_Normalized.pdf&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/Activity_Matrix_Composite.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Rebalancing_Columns_02.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, we have created hotspot maps for both the AM and the PM peak hours. As you can see from the maps below, Citibike activity closely matches what we would expect to see in New York: the AM peak hour map shows people leaving residential neighborhoods (Lower East Side, East Village, Chelsea and Hells Kitchen) and arriving at Midtown East and the Financial District, and the PM peak hour map shows the reverse. To note, however, is the fact that these two maps are not completely symmetrical, meaning that there are certain trips that happen in the morning which do not have their counterpart in the evening, and vice versa. Also, there are some stations that while being inside imbalance hotspots do not show that large of an imbalance. These stations have been outlined on the maps and should be further studied. You can view high-res versions of these maps here: &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/October_Peak_Hour_Weekday_AM.pdf&quot;&gt;AM&lt;/a&gt; and &lt;a href=&quot;https://dl.dropboxusercontent.com/u/7595728/October_Peak_Hour_Weekday_PM.pdf&quot;&gt;PM&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hotspot_AM.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Hotspot_PM.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Further analysis:&lt;/p&gt;
+
+&lt;p&gt;All the visualizations above were created using the &amp;quot;trip&amp;quot; data, available &lt;a href=&quot;http://www.citibikenyc.com/system-data&quot;&gt;here&lt;/a&gt;, which contains every single CitiBike trip. However, CitiBike also releases &amp;quot;&lt;a href=&quot;http://www.citibikenyc.com/stations/json&quot;&gt;station&lt;/a&gt;&amp;quot; data, in json format, which is updated every two minutes and contains information on how many bikes area available at each station and how many empty docks there are. With this dataset we created the next series of graphs, in an effort to visualize how full or empty a station was during the first week of May 2014.&lt;/p&gt;
+
+&lt;p&gt;In these series the blue and orange colors indicate that the stations are either more than 80% full or less than 20% full. In this first graph, one can also see the peak hours during the weekdays - represented by a greater density of lines - and the absence of those during Saturday and Sunday. In general though, these graphs show the magnitude of the problem with most stations being either almost empty or full - mostly empty - most of the time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_Line_Graph.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Finally, this last graph also uses the &amp;quot;station&amp;quot; data. However, here every row represents a station and every column its status for those two minutes. As in the images before, one can see that most of the time, the majority of stations are either less than 20% empty or more than 80% full, with an emphasis on emptiness. It is also possible to see the peak hours and the difference between weekdays and the weekend.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Citibike_DNA_Graph.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Introducing Hyde</title>
-   <link href="http://hyde.getpoole.com/2013/12/28/introducing-hyde/"/>
-   <updated>2013-12-28T00:00:00+01:00</updated>
-   <id>http://hyde.getpoole.com/2013/12/28/introducing-hyde</id>
+   <link href="http://hyde.getpoole.com/introducing-hyde"/>
+   <updated>2013-12-28T00:00:00-05:00</updated>
+   <id>http://hyde.getpoole.com/introducing-hyde</id>
    <content type="html">&lt;p&gt;Hyde is a brazen two-column &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that pairs a prominent sidebar with uncomplicated content. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
@@ -75,9 +140,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="http://hyde.getpoole.com/2012/02/07/example-content/"/>
-   <updated>2012-02-07T00:00:00+01:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/07/example-content</id>
+   <link href="http://hyde.getpoole.com/example-content"/>
+   <updated>2012-02-07T00:00:00-05:00</updated>
+   <id>http://hyde.getpoole.com/example-content</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
@@ -222,9 +287,9 @@
  
  <entry>
    <title>What's Jekyll?</title>
-   <link href="http://hyde.getpoole.com/2012/02/06/whats-jekyll/"/>
-   <updated>2012-02-06T00:00:00+01:00</updated>
-   <id>http://hyde.getpoole.com/2012/02/06/whats-jekyll</id>
+   <link href="http://hyde.getpoole.com/whats-jekyll"/>
+   <updated>2012-02-06T00:00:00-05:00</updated>
+   <id>http://hyde.getpoole.com/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;

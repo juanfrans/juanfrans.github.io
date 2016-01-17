@@ -3,8 +3,9 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        /:categories/:title
+# pretty
+# relative_permalinks: true
 
 # Setup
 title:            Juan Francisco Saldarriaga
@@ -13,11 +14,15 @@ description:      ''
 url:              http://hyde.getpoole.com
 # baseurl:          http://juanfrans.github.io/
 
+# Required if you want to move pages into a a separate directory
+include: ['_pages']
+relative_permalinks: false
+
 author:
   name:           'Juan Francisco Saldarriaga'
   url:            https://twitter.com/juanfrans
 
-paginate:         5
+paginate:         3
 
 # Custom vars
 version:          2.1.0
