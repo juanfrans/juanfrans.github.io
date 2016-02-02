@@ -4,7 +4,7 @@
  <title>Juan Francisco Saldarriaga</title>
  <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
  <link href="http://hyde.getpoole.com/"/>
- <updated>2016-01-23T09:55:48-05:00</updated>
+ <updated>2016-01-23T10:27:41-05:00</updated>
  <id>http://hyde.getpoole.com</id>
  <author>
    <name>Juan Francisco Saldarriaga</name>
@@ -26,6 +26,23 @@
 &lt;iframe src=&quot;https://player.vimeo.com/video/111134228&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/111134228&quot;&gt;Barcelona Cycle Challenge - 2014&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/juanfrans&quot;&gt;Juan Francisco Saldarriaga&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>San Francisco Bike Activity</title>
+   <link href="http://hyde.getpoole.com/San-Francisco-Bike-Activity"/>
+   <updated>2014-09-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/San-Francisco-Bike-Activity</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;01_Images/Bay_Area_Bike_Challenge_Main.png&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Revisiting a previous project of ours. In collaboration with Natasa Papadi.&lt;/p&gt;
+
+&lt;p&gt;This visualization analyzes the 20 most popular bike sharing stations in San Francisco in four different areas, and in doing so, it creates a more detailed, nuanced and complex image of the Bay Area Bike Share System.&lt;/p&gt;
+
+&lt;p&gt;The diagrams are based on the traditional pie chart, but they vary and evolve to better represent each station&amp;#39;s attributes. Two systems of information interact here in order to outline each station&amp;#39;s unique profile and deliver insights: one station popularity network and one based on usage frequency and customer type.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/Bay_Area_Bike_Challenge_01.png&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -91,6 +108,31 @@
 &lt;p&gt;Finally, this last graph also uses the &amp;quot;station&amp;quot; data. However, here every row represents a station and every column its status for those two minutes. As in the images before, one can see that most of the time, the majority of stations are either less than 20% empty or more than 80% full, with an emphasis on emptiness. It is also possible to see the peak hours and the difference between weekdays and the weekend.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;01_Images/Citibike_DNA_Graph.png&quot;&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LOs | O</title>
+   <link href="http://hyde.getpoole.com/LOs-O"/>
+   <updated>2014-04-01T00:00:00-04:00</updated>
+   <id>http://hyde.getpoole.com/LOs-O</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;01_Images/O_Main.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Part of the Bay Area Bike Share Data Challenge, this projects visualizes different characteristics of every single station in the system. Based on a matrix of circles, the projects makes it easy to distinguish patterns and outlier stations, at the same time creating visually compelling images.&lt;/p&gt;
+
+&lt;p&gt;In collaboration with Natasa Papadi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_01.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_02.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_03.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_04.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_05.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;01_Images/O_06.jpg&quot;&gt;&lt;/p&gt;
 </content>
  </entry>
  

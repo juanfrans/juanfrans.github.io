@@ -22,7 +22,7 @@ author:
   name:           'Juan Francisco Saldarriaga'
   url:            https://twitter.com/juanfrans
 
-paginate:         3
+paginate:         5
 
 # Custom vars
 version:          2.1.0
