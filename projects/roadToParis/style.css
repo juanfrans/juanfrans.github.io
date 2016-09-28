@@ -1,0 +1,16 @@
+body {
+	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+	background-color: rgb(51,51,51);
+	color: rgb(153,153,153);
+	font-family: 'proxima-nova', sans-serif;
+	font-size: 14px;
+	max-width: 720px;
+	line-height: 50%;
+}
+
+head{
+	font-family: 'proxima-nova', sans-serif;
+	font-size: 14px;
+	line-height: 10%;
+}
