@@ -26,23 +26,23 @@ function grid(pointX, pointY){
 
 	this.display = function() {
 		var distance = dist(mouseX, mouseY, this.x, this.y);
-		if (distance < 200){
+		// if (distance < 700){
 		// line(this.x - this.diameter, this.y, this.x + this.diameter, this.y);
 		// line(this.x, this.y - this.diameter, this.x, this.y + this.diameter);
 			ellipse(this.x, this.y, this.diameter, this.diameter);
-		};
+		// };
 	};
 
 	this.update = function(){
 		var distance = dist(mouseX, mouseY, this.x, this.y);
-		this.diameter = map(distance, 0, 50, 1, 3);
+		this.diameter = map(distance, 0, 500, 1, 3);
 	}
 }
 
 function draw() {
 	background('#F2F2F2');
 	noFill();
-	stroke(215);
+	stroke(200);
 	strokeWeight(0.5);
 	for (var i = 0; i < points.length; i++) {
 		points[i].display();
