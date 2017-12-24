@@ -60,7 +60,7 @@ body {
 	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.35em;
 	font-weight: 300;
-	max-width: 900px; 
+	max-width: 900px;
 }
 .summary p > a{
 	color: #000000;
@@ -104,7 +104,7 @@ body {
 	font-family: "futura-pt", helvetica, sans-serif;
 	font-size: 1.35em;
 	font-weight: 300;
-	padding-top: 20px;	
+	padding-top: 20px;
 }
 .footer-item{
 	color: #000000;
@@ -128,7 +128,7 @@ body {
 	font-size: 1.1em;
 	font-weight: 200;
 	margin: 0px;
-	max-width: 900px; 
+	max-width: 900px;
 }
 .cv-section .intro-cv{
 	color: #000000;
@@ -194,7 +194,7 @@ p.cv-item a{
 	padding-bottom: 20px;
 }
 .project-site-button{
-	background-color: #66CCCC;
+	/* background-color: #66CCCC; */
 	border-radius: 5px;
 }
 .project-site-button p{
