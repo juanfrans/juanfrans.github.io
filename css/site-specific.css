@@ -10,9 +10,11 @@ body {
 .navbar-default {
 	background-color: #F2F2F2;
 	border-style: none;
+	padding-top: 1em;
 }
 .navbar-default .container-fluid{
 	border-bottom: 1px solid #BFBFBF;
+	padding-bottom: 1em;
 }
 .navbar-default .navbar-brand {
 	color: #000000;
@@ -21,7 +23,7 @@ body {
 	font-style: normal;
 	font-weight: 400;
 	text-decoration: none;
-	letter-spacing: 0.5px
+	letter-spacing: 0.5px;
 }
 .navbar-default .navbar-brand:hover {
 	color: #000000;
@@ -29,7 +31,7 @@ body {
 .navbar-default .navbar-nav > li > a {
 	color: #4C4C4C;
 	font-family: "futura-pt", helvetica, sans-serif;
-	font-size: 1.15em;
+	font-size: 1.25em;
 	font-style: normal;
 	font-weight: 200;
 	text-decoration: none;
