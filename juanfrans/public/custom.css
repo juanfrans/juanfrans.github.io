@@ -1,0 +1,45 @@
+.robotoMono {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+}
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    padding-top: 1em;
+}
+h2 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    padding-top: 1em;
+}
+h3 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    padding-top: 1em;
+}
+h4 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+    padding-top: 1em;
+}
+
+a, a:visited {
+    color: black;
+    text-decoration: underline;
+}
+a:hover {
+    color: red;
+}
+ul {
+    list-style-type: none;
+    margin-left: 0em;
+}
+li {
+    padding-bottom: 1em;
+}
