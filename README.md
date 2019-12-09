@@ -9,3 +9,6 @@
 * Go [here](https://jekyllrb.com/docs/themes/#overriding-theme-defaults) for instructions on how to override the defaults.
 * Copy the actual files from the Minima template into the folder: `cp -r /Library/Ruby/Gems/2.6.0/gems/minima-2.5.1/* . ` so you can modify them.
 * [Liquid documentation](https://shopify.github.io/liquid/)
+
+## Todos
+TODO: Update links in the CV to the projects hosted on the site

@@ -37,8 +37,11 @@ a:hover {
     color: red;
 }
 ul {
-    list-style-type: none;
-    margin-left: 0em;
+    list-style-type: circle;
+    margin-left: 1em;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 0.9em;
 }
 li {
     padding-bottom: 1em;
