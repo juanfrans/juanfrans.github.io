@@ -31,17 +31,25 @@ h4 {
 
 a, a:visited {
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
+    /* text-decoration-color: red; */
+    border-bottom: 1px solid;
+    border-color: #ff8800;
 }
 a:hover {
-    color: red;
+    text-decoration: none;
+}
+.site-title {
+    border-bottom: 0px;
+    font-size: 1em;
+    font-weight: 400;
 }
 ul {
     list-style-type: circle;
     margin-left: 1em;
     font-family: 'Roboto Mono', monospace;
     font-weight: 300;
-    font-size: 0.9em;
+    font-size: 0.85em;
 }
 li {
     padding-bottom: 1em;
