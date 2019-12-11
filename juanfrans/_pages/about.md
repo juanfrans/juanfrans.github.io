@@ -1,6 +1,7 @@
 ---
 layout: about
 permalink: /about/
+title: About
 ---
 
 The short version is I'm a researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University.

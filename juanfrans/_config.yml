@@ -1,5 +1,3 @@
-
-
 # Site settings
 title: Juan Francisco Saldarriaga
 email: juanfrans@gmail.com
@@ -15,6 +13,9 @@ url: https://juanfrans.com
 # Required if you want to move pages into a a separate directory
 include: ['_pages']
 relative_permalinks: false
+
+header_pages:
+  - _pages/about.md
 
 # Build settings
 theme: minima
