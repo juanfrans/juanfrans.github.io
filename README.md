@@ -12,3 +12,5 @@
 
 ## Todos
 TODO: Update links in the CV to the projects hosted on the site
+TODO: Update link to previous survey on gsapp-ap
+TODO: Go through post images and make sure they are the right size

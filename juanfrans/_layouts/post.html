@@ -7,7 +7,14 @@ layout: default
     {{ page.title | upcase}}
   </p>
   {% if page.interactiveSite %}
-    <a class="interactiveSite robotoMono f6 link dim br2 ba ph3 pv2 mb3 dib black" href="{{ page.interactiveSite }}">Visit the interactive project site</a>
+    {% for site in page.interactiveSite %}
+      <a class="interactiveSite robotoMono f6 link dim br2 ba ph3 pv2 mb3 dib black" href="{{ site.url }}">Visit the {{ site.name }} website</a>
+    {% endfor %}
+  {% endif %}
+  {% if page.researchPaper %}
+    {% for paper in page.researchPaper %}
+      <a class="interactiveSite robotoMono f6 link dim br2 ba ph3 pv2 mb3 dib black" href="{{ paper.url }}">Read {{ paper.name }}</a>
+    {% endfor %}
   {% endif %}
   <div class="roboto f5">
     {{ content }}

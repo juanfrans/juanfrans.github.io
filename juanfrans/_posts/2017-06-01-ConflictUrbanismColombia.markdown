@@ -1,11 +1,21 @@
 ---
 layout: post
 title:  Conflict Urbanism Colombia
-date:   2016-01-01
+date:   2017-06-01
 thumbImagePath: assets/thumbs/conflictUrbanismColombia.png
 shortDescription: An interactive mapping, data visualization, and spatial analysis project that examines the Colombian conflict and tries to understand its patterns and ramifications.
-interactiveSite: https://conflicturbanismcolombia.com/
+interactiveSite:
+    - 
+        name: Conflict Urbanism Colombia
+        url: https://conflicturbanismcolombia.com/
 mainImagePath: assets/projectImages/conflictUrbanismColombia/conflictUrbanismColombia_main.png
+researchPaper:
+    - 
+        name: 'Visualizing Conflict: Possibilities for Urban Research'
+        url: http://www.cogitatiopress.com/urbanplanning/article/view/880/880
+    -
+        name: A Gravity Model Analysis Of Forced Displacement In Colombia
+        url: https://www.sciencedirect.com/science/article/pii/S0264275118311363
 ---
 *Conflict Urbanism Colombia is a collaboration between the [Center for Spatial Research](http://c4sr.columbia.edu/) and the [Maters in Peace Building](https://paz.uniandes.edu.co/index.php/es/) at the Universidad de Los Andes. Its team included Laura Kurgan, Juan Francisco Saldarriaga, Angelika Rettberg, Dare Brawley, Mike Howard, Jeevan Farias, Stella Ioannidou, Patrick Li, Anjali Singhvi, Jonathan Izen, and Hu Yuan.*
 
@@ -50,7 +60,5 @@ Finally, if we instead sort the pixels by the date in which the report of the cr
 ![Report Image](../../../assets/projectImages/conflictUrbanismColombia/report.png)
 
 These patterns reveal more about the collection process than about the actual crimes that were committed, and as such, tell us something about how the data was gathered by the government. This, in turn, should help us question the dataset itself and treat it with the necessary skepticism and care. For example, why was there such a clear effort to collect data about massacres between 2008 and 2010? And why did this focus switch to collecting reports about displacement? We suspect this has much more to do with the political realities at the time than with the conditions on the ground. Ultimately, however, this does not mean that the data itself is false but only that it is the product of a specific collection effort and thus, might not capture the whole reality of the conflict.
-
-To explore and interact with the full project please go to the [Conflict Urbanism: Colombia site](https://conflicturbanismcolombia.com/). And for further reading download our papers [Visualizing Conflict: Possibilities for Urban Research](http://www.cogitatiopress.com/urbanplanning/article/view/880/880) and [A Gravity Model Analysis Of Forced Displacement In Colombia](https://www.sciencedirect.com/science/article/pii/S0264275118311363).
 
 *Conflict Urbanism Colombia was built with [Tangram](https://github.com/tangrams/tangram), [Leaflet](https://leafletjs.com/), [D3.js](https://d3js.org/), [Three.js](https://threejs.org/), [Processing](https://processing.org/), [Photoshop](https://www.adobe.com/products/photoshop.html), [Landsat-Util](https://github.com/developmentseed/landsat-util), and [After Effects](https://www.adobe.com/products/aftereffects.html).*
