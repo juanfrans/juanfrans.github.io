@@ -1,6 +1,6 @@
 <header class="site-header" role="banner">
 
-  <div class="mw7 ph3 center">
+  <div class="center">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title robotoMono" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>

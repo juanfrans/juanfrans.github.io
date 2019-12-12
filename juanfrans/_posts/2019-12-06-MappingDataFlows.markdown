@@ -2,9 +2,11 @@
 layout: post
 title:  Mapping Data Flows
 date:   2019-12-06 15:39:18 -0500
-categories: jekyll update
 thumbImagePath: assets/thumbs/mappingDataFlows.png
-shortDescription: Understanding how the largest technology companies collect, use, and share user information across the internet. We’ve transformed the terms of service and data policies of Amazon, Apple, Facebook and Google into a database powering an interactive visualization.
+shortDescription: We’ve transformed the terms of service and data policies of Amazon, Apple, Facebook and Google into a database powering an interactive visualization.
+tags: [p5.js]
+partOf: [Brown Institute for Media Innovation, SIPA]
+team: [John Battelle, Juan Francisco Saldarriaga, Zoe, Natasha, Matthew, Veronica]
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
