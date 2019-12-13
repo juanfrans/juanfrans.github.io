@@ -2,7 +2,15 @@
 layout: default
 ---
 <div>
-  <img src="{{ page.mainImagePath | relative_url }}" alt="{{ page.title }}">
+  {% if page.mainImagePath %}
+    <img src="{{ page.mainImagePath | relative_url }}" alt="{{ page.title }}">
+  {% endif %}
+  {% if page.mainVideoPath %}
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{ page.mainVideoPath }}"
+        style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen"
+        allowfullscreen></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>
+  {% endif %}
   <p class="robotoMono f3-ns f3 mb2-ns mb4 mt3-ns mt3">
     {{ page.title | upcase}}
   </p>

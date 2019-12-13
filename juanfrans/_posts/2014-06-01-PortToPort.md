@@ -14,14 +14,14 @@ mainImagePath: assets/projectImages/portToPort/portToPort_main.png
 
 Using D3 as an interactive web platform we designed a map interface that is scaled globally while embedded with local stories about energy movement from port to port. Data can be viewed across time, which reveal changes in patterns of movement as the geopolitics, price of oil, and conditions at specific ports change.
 
-![Total volume traded](../../../assets/projectImages/portToPort/portToPort_03.png)
+![Total volume traded](../../../assets/projectImages/portToPort/portToPort_02.png)
 
-This detailed view of Mott Haven and Port Morris shows each environmental and demographic metric at a more detailed scale. In addition, you can see how implementing the Randall's Island Connector - an NYCEDC project - will change the distance to open spaces metric for the neighborhood.
+![Total volume traded and price of oil](../../../assets/projectImages/portToPort/portToPort_03.png)
 
-![Green space in Port Morris and Mott Haven](../../../assets/projectImages/portToPort/portToPort_06.png)
+90% of all goods worldwide are moved by ship, but shipping is mostly invisible. More than 300 million Metric Tons of energy are shipped in and out of the United States each year, in 60,000 shipments. This project presents the ports and paths of the 2.7 billion Metric Tons of energy shipped through more than 90 US ports from 2002 - 2012. Using data assembled by Thomson Reuters, Port to Port maps global oil shipping routes as well as other forms of energy navigating ocean territories to and from the United States.
 
-![Distance to open space in Port Morris and Mott Haven](../../../assets/projectImages/portToPort/portToPort_07.png)
+![Volume traded in top 20 U.S. ports](../../../assets/projectImages/portToPort/portToPort_04.png)
 
-For more information about the current state of the project and to download the Master Plan, visit [NYRP's project page](https://www.nyrp.org/about/programs/the-haven-project/).
+![Volume traded in top 20 foreign ports](../../../assets/projectImages/portToPort/portToPort_05.png)
 
-*Built with [ArcGIS](https://www.arcgis.com/), [Mapbox](https://www.mapbox.com/), [Tilemill](https://tilemill-project.github.io/tilemill/), and [p5.js](https://p5js.org/).*
+*Built with [D3.js](https://d3js.org/) and [Processing](https://processing.org/).*
