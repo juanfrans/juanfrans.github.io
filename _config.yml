@@ -7,6 +7,7 @@ author: Juan Francisco Saldarriaga
 description: ''
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://juanfrans.com
+google_analytics: UA-27897156-5 
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
