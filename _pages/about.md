@@ -11,11 +11,13 @@ I work at the intersection of data, GIS, visualization, journalism, architecture
 Here's a more detailed version:
 
 #### EDUCATION
+
 * Masters in Architecture, Graduate School of Architecture, Planning and Preservation, Columbia University in the City of New York, 2012.
 * Masters of Science in Urban Planning, Graduate School of Architecture, Planning and Preservation, Columbia University in the City of New York, 2009.
 * Bachelors of Arts in Philosophy, Department of Philosophy, Universidad de Los Andes, 2004.
 
 #### PROFESSIONAL APPOINTMENTS
+
 * Columbia University in the City of New York, School of Journalism, [Brown Institute for Media Innovation](https://brown.columbia.edu/), Senior Data and Design Researcher, 2018 - Present.
 * Columbia University in the City of New York, [Graduate School of Architecture, Planning and Preservation](https://www.arch.columbia.edu/), Adjunct Assistant Professor, 2013 - Present.
 * Columbia University in the City of New York, Graduate School of Architecture, Planning and Preservation, [Center for Spatial Research](http://c4sr.columbia.edu/), Mellon Research Scholar, 2015 - 2018.
@@ -24,13 +26,14 @@ Here's a more detailed version:
 * [Catholic Charities of New York](https://catholiccharitiesny.org/), GIS Project Lead, 2008.
 
 #### CONSULTING SERVICES
+
 * [WeWork](https://www.wework.com/), Interactive Mapping Designer, 2018 - 2019.
 * [Misión de Observación Electoral](https://moe.org.co/), Colombia, Interactive Mapping Designer, 2018.
 * [Envelope](https://envelope.city/), GIS Project Lead, 2016 - 2017.
 * [Two Trees Management](https://www.twotreesny.com/), GIS Lead and Mapping Designer, 2015, 2018.
 
 #### PEER REVIEWED PUBLICATIONS
-* Forced Displacement in Colombia, 1985 to 2015: A Network Analysis, Saldarriaga, J., under review in Environment and Planning B: Urban Analytics and City Science, 2019.
+
 * [A Gravity Model Analysis Of Forced Displacement In Colombia](https://www.sciencedirect.com/science/article/pii/S0264275118311363), Saldarriaga, J., Yuan, H., published in Cities, Volume 95, 2019.
 * [Measuring Changes In Taxi Trips Near Infill Development And Issues For Curbside Management Of For-Hire Vehicles](https://www.sciencedirect.com/science/article/pii/S2210539517301219), Saldarriaga, J., King, D., published in Research in Transportation Business & Management, 2018.
 * [Spatial Regulation Of Taxicab Services: Measuring Excess Travel From New York City](https://www.jtlu.org/index.php/jtlu/article/view/1063), Saldarriaga, J., King, D., published in the Journal of Transport and Land Use, Volume 11 No. 1, 2018.
@@ -38,15 +41,18 @@ Here's a more detailed version:
 * [Access to taxicabs for unbanked households: an exploratory analysis in New York City](https://scholarcommons.usf.edu/jpt/vol20/iss1/1/), Saldarriaga J., King, D., published in the Journal of Public Transportation, Volume 20.1, 2017.
 
 #### CONFERENCE PROCEEDINGS
+
 * [Modeling Social Justice Issues in Urban Zones Using Big Data: Evidence from Bikeshare and Taxicab Data](https://urbanbigdata.uic.edu/proceedings/), King, D., Peters, J., Davidson, A., Saldarriaga, J., in Proceedings from the Workshop in Big Data and Urban Informatics, University of Illinois at Chicago, 2014.
 
 #### OTHER PUBLICATIONS
+
 * Displacement, Saldarriaga, J., published in [Yuca Magazine](http://www.yucamag.com/issue_i/), The Architecture Alibi & Migrations Issue, 2017.
 * The Haven Project - Metrics, Kurgan, L., Saldarriaga, J., Izen, J., New York Restoration Project, published in [Landscape Architecture Frontiers](http://www.lafrontiers.com/), Issue 4, 2016.
 * Here Now! Social Media and the Psychological City, Saldarriaga, J., Williams, S., published in the [Atlas of Design](http://atlasofdesign.org/2012/08/23/a-preview-of-the-selections/), Volume 1, 2012.
 * [Bicycle Commuting And Its Relation To Infrastructure And Demographics: New York City, 1990 - 2000](https://clio.columbia.edu/catalog/7008600?counter=1), Saldarriaga, J., Masters of Urban Planning Thesis, Columbia University, 2008.
 
 #### RESEARCH PROJECTS
+
 * [Mapping Data Flows](https://mappingdataflows.com/), a visual exploration of the types of data collected by Amazon, Apple, Facebook, and Google, and what they use it for. Battelle, J., Saldarriaga, J., Martin, Z., Albasi, M., Bhuta, N., Penney, V., 2018 - 2019.
 * Counting and Mapping Police Killings, a statistical and mapping investigation into extra- judicial killings in the Philippines, Coronel, S., Ball, P., Saldarriaga, J., Security Forces Monitor, 2018 - 2019.
 * [Conflict Urbanism: Infrapolitics](http://c4sr.columbia.edu/infrapolitics-seminar), a spatial investigation into the politics and social acts behind infrastructure in three global-south cities, Mumbai, Johannesburg, and Medellín. Kurgan, L., Rao, A., Saldarriaga J., McSweeney, M., 2017 - 2018.
@@ -62,6 +68,7 @@ Here's a more detailed version:
 * Here Now! Social Media And The Psychological City, data visualization and mapping project studying social media check-ins in New York City. Williams, S., Saldarriaga, J., Bullen, G., Tan, F., Youse, N., 2011.
 
 #### AWARDS, EXHIBITIONS AND GRANTS
+
 * [Points Unknown: New Frameworks for Investigation and Creative Expression Through Mapping](https://pointsunknown.nyc/), principal investigator. A Columbia University [Collaboratory grant](https://entrepreneurship.columbia.edu/collaboratory/points-unknown-new-frameworks-investigation-creative-expression-mapping-collaboration-j-school-gsapp/) to create and implement courses that combine mapping, narrative and storytelling in the School of Journalism and in the Graduate School of Architecture, Planning and Preservation. Columbia University, 2016 - 2018.
 * How We Die, exhibited at the [Data Through Design](http://2018.datathroughdesign.com/event.html) art exhibit, at Made in NY Media Center, New York, 2018.
 * Conflict Urbanism: Colombia, awarded best academic visualization at the [CitiViz](http://cityvis.io/) competition organized by [Habitat X Change](https://t.co/lRv2fgnUDO) during UN’s Habitat 3 summit, 2016.
@@ -69,6 +76,7 @@ Here's a more detailed version:
 * Here Now! Social Media and the Psychological City, exhibited at [BRIC Arts and Media House](https://www.bricartsmedia.org/art-exhibitions/mapping-brooklyn), New York, 2015, Get It Louder, Beijing, China, 2013, and Digitas, New York, 2012.
 
 #### INVITED TALKS
+
 * [Mobility + Spatial Agency: Autonomy in the New Urban Interface](https://calendar.aiany.org/2019/07/15/mobility-spatial-agency-autonomy-in-the-new-urban-interface/), AIA New York, New York, 2019.
 * Spatial Data Analysis and Visualization, lecture for the Housing Studio masters course at The City University of New York, New York, 2018.
 * Research Through Visualization, lecture for the Strategic Communications masters course at The City University of New York, New York, 2018.
@@ -79,6 +87,7 @@ Here's a more detailed version:
 * The Uncertainties of Data, lecture for the City As Resource Lecture Series, Zürcher Hochschule der Künste, Zürich, Switzerland, 2014.
 
 #### CONFERENCE PARTICIPATION
+
 * Conflict Urbanism: Colombia - The Memory of a Conflict Through a Single Dataset, presented at the [Visualization and the Holocaust](http://www.dukewired.org/visualization-and-the-holocaust/) conference, Nasher Museum of Art at Duke University, Durham, North Carolina, 2019.
 * Mapping and Data Analysis of Forced Displacement, presentation at the [Build Peace](https://howtobuildpeace.org/bp2017/) conference, Bogotá, Colombia, 2017.
 * Conflict Urbanism: Colombia & Aleppo, presented at the [NACIS Annual Conference](https://nacis2017.sched.com/), Montreal, Canada, 2017.
@@ -90,12 +99,14 @@ Here's a more detailed version:
 * Modeling Social Justice Issues in Urban Zones Using Big Data: Evidence from Bikeshare and Taxicab Data, presented at the [Workshop on Big Data And Urban Informatics](https://urbanbigdata.uic.edu/proceedings/), University of Illinois at Chicago, Illinois, 2014.
 
 #### CAMPUS TALKS
+
 * [Conflict Urbanism: Visualizing Conflict Data Through Mapping and Spatial Analysis](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be), lecture and workshop for the [Art of Data Visualization: Art or Knowledge](http://library.columbia.edu/news/events/data-visualization/dv_program.html) conference at Columbia University, 2017.
 * Activity Mapping, lecture for the Columbia Data Science Society students at Columbia University, 2016.
 * Activity Mapping, lecture and workshop for the Art of Data Visualization Conference at Columbia University, 2016.
 * Activity Mapping, lecture for the Urban Design Event Series at Columbia University, 2015. Patterns & Arguments, lecture for the Urban Design Event Series at Columbia University, 2014.
 
 #### TEACHING EXPERIENCE
+
 * [Introduction to Computational Journalism](https://github.com/juanfrans-courses/intro_computational_journalism), an introductory five-day workshop on tools, methods, and concepts such as programming, reproducible research, web-scraping, and APIs, for professional journalists from the European Broadcasting Union (Summer 2019).
 * [Points Unknown: New Frameworks for Investigation and Creative Expression Through Mapping](https://pointsunknown.nyc/), four and five week workshops and full semester graduate course combining mapping, narrative and storytelling for the School of Journalism and the Graduate School of Architecture, Planning and Preservation (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020).
 * [Data Visualization for Architecture, Urbanism and the Humanities](https://github.com/juanfrans-courses/dataViz_arch_hum), an introduction to data visualization theory and methods for students new to the fields of computation and information design. Interdisciplinary, undergraduate and graduate levels (Spring 2017, Spring 2018).
@@ -105,12 +116,14 @@ Here's a more detailed version:
 * Geographic Information Systems, a GIS course for the Epidemiology and Population Health Summer Institute (Summer 2015).
 
 #### SERVICE TO THE PROFESSION
+
 * Manuscript review for the Environment and Planning B: Urban Analytics and City Science academic journal, 2018.
 * Member of the Program Committee for the [Urban Data Visualization Workshop (CityVis)](https://www.cityvis.io/), IEEE VIS Conference (2018 - 2019).
 * Member of the organizing committee for the [Data Through Design Exhibition](https://2019.datathroughdesign.com/), 2019.
 * Member of the Program Committee for the [CityVis Competition 2018]((https://www.cityvis.io/)), IEEE VIS Conference 2018.
 
 #### EXTRACURRICULAR UNIVERSITY SERVICE
+
 * Affiliated member of the Data Science Institute ([Data, Media and Society](https://datascience.columbia.edu/new-media), [Education](https://datascience.columbia.edu/education), and [Smart Cities](https://datascience.columbia.edu/smart-cities) centers), Columbia University, 2019.
 * Member of the [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/), Columbia University, 2015 to present.
 * Member of the organizing committee of The Art of Data Visualization conference, Columbia University, 2018 - 2019.
@@ -118,6 +131,7 @@ Here's a more detailed version:
 * Grant proposal reviewer for the [Collaboratory Fellows Fund](https://entrepreneurship.columbia.edu/collaboratory/), Columbia University, 2018.
 
 #### MEDIA COVERAGE
+
 * Puerto Rico Mapathon, a collaborative workshop to improve geographic data of Puerto Rico in wake of hurricane Maria. Organized along with the Group for Experimental Methods in the Humanities. Covered by the [New York Times](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html), [The Atlantic CityLab](https://www.citylab.com/environment/2017/10/how-open-source-mapping-helps-hurricane-recovery/542565/), [PBS](https://www.pbs.org/newshour/nation/volunteers-helping-puerto-rico-home-map-anyone-can-edit) and [Wired](https://www.wired.com/story/the-crowdsourced-maps-guiding-puerto-ricos-recovery/), 2017.
 * Citibike Citibike Rebalancing Study, featured in [The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2014/06/25/the-ultimate-riddle-of-supply-and-demand-bikeshare/) and [StreetsBlog NYC](https://nyc.streetsblog.org/2014/06/30/the-science-and-maps-behind-finding-available-citi-bikes-and-docks/), 2014.
 * Rides, a video animation of 48 hours of Citibike rides. Featured in [The New York Times](https://cityroom.blogs.nytimes.com/2014/03/31/by-plotting-journeys-providing-a-glimpse-at-citi-bike-ridership/) and [Fast Company Co.Design](https://www.fastcompany.com/3028485/what-a-day-in-the-life-of-citi-bike-looks-like), 2014.
@@ -126,7 +140,9 @@ Here's a more detailed version:
 * Taxi! A video animation of taxi rides around New York City. Featured in The Atlantic CityLab and [FlowingData](https://flowingdata.com/2012/02/08/taxi-migration-in-manhattan/), 2012.
 
 #### PROFESSIONAL SKILLS
+
 * Proficiency in GIS (ArcGIS and QGIS), Postgresql (including PostGIS), Webmapping (including Leaflet, Carto, Mapbox, Tangram), Rhinoceros (including Grasshopper), 3DS Max, Maya, AutoCAD, Adobe Creative Suite, Python (including Pandas and Numpy), Javascript, Processing, Arduino, d3.js, p5.js, HTML, CSS, Git, SPSS, and MS Office.
 
 #### LANGUAGES
+
 * English (fluent), Spanish (native), French (fluent), Modern Greek (Basic)
