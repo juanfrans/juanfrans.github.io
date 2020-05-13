@@ -77,6 +77,7 @@ Here's a more detailed version:
 
 #### INVITED TALKS
 
+* [Mapping Data Flows](https://www.global-solutions-initiative.org/global-table/ai-and-data-governance/), *data presentation* for the AI and Data Governance panel at the [Global Solutions Summit 2020](https://www.global-solutions-initiative.org/).
 * [Mobility + Spatial Agency: Autonomy in the New Urban Interface](https://calendar.aiany.org/2019/07/15/mobility-spatial-agency-autonomy-in-the-new-urban-interface/), AIA New York, New York, 2019.
 * Spatial Data Analysis and Visualization, lecture for the Housing Studio masters course at The City University of New York, New York, 2018.
 * Research Through Visualization, lecture for the Strategic Communications masters course at The City University of New York, New York, 2018.
