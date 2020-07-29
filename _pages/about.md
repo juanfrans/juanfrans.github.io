@@ -101,6 +101,7 @@ Here's a more detailed version:
 
 #### CAMPUS TALKS
 
+* [Moving Around During the Pandemic](https://research.columbia.edu/covid/covid-19-virtual-symposium-july-29-2020), presentation at the 16th COVID-19 Virtual Symposium, 2020.
 * [Conflict Urbanism: Visualizing Conflict Data Through Mapping and Spatial Analysis](https://www.youtube.com/watch?v=XjW4mvMXTXg&feature=youtu.be), lecture and workshop for the [Art of Data Visualization: Art or Knowledge](http://library.columbia.edu/news/events/data-visualization/dv_program.html) conference at Columbia University, 2017.
 * Activity Mapping, lecture for the Columbia Data Science Society students at Columbia University, 2016.
 * Activity Mapping, lecture and workshop for the Art of Data Visualization Conference at Columbia University, 2016.
