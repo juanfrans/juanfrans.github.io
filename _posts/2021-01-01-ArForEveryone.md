@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Uprooted: How Newark Acquired a Medical School and Destroyed a Neighborhood"
-date:   2020-01-01
-thumbImagePath: assets/thumbs/uprootedSplash.png
-shortDescription: The story of how a neighborhood in Newark, New Jersey, was transformed by "white flight" and urban renewal, and the people who fought against it and suffered its consequences.
+title:  "AR For Everyone!"
+date:   2021-01-01
+thumbImagePath: assets/thumbs/ar.png
+shortDescription: An exploration of augmented reality coupled with mapping to create a template for the production of similar pieces by small newsrooms.
 interactiveSite:
   - 
-    name: "Uprooted story"
-    url: https://newestamericans.com/universityHeights/
-mainImagePath: assets/projectImages/uprooted/uprootedSplash.png
+    name: "A Virtual Tour of the Businesses that Closed due to COVID-19 in New York City"
+    url: https://browninstitute.github.io/ar-for-everyone/map/index.html
+mainImagePath: assets/projectImages/arForEveryone/arSplash.png
 ---
 *Uprooted is a collaboration with [Newest Americans](https://newestamericans.com/).*
 
