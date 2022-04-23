@@ -1,31 +1,27 @@
 ---
 layout: post
-title:  "AR For Everyone!"
+title:  "AR For Everyone! Experiencing Augmented Reality News Stories in the Browser"
 date:   2021-01-01
 thumbImagePath: assets/thumbs/ar.png
 shortDescription: An exploration of augmented reality coupled with mapping to create a template for the production of similar pieces by small newsrooms.
 interactiveSite:
   - 
-    name: "A Virtual Tour of the Businesses that Closed due to COVID-19 in New York City"
+    name: "Virtual Tour of the Businesses that Closed due to COVID-19 in New York City"
     url: https://browninstitute.github.io/ar-for-everyone/map/index.html
 mainImagePath: assets/projectImages/arForEveryone/arSplash.png
 ---
-*Uprooted is a collaboration with [Newest Americans](https://newestamericans.com/).*
+*AR For Everyone! was produced at [The Brown Institute for Media Innovation](https://brown.columbia.edu/) with support from an [ONA's Journalism 360 grant](https://journalists.org/programs/journalism-360/challenge/2020-winners/). Its team was Ziv Schneider, Juan Francisco Saldarriaga, and Sukanya Aneja.*
 
-Between 1955 and 1972 hundreds of people were displaced from Newark, New Jersey. Uprooted tells the story of this displacement, and maps the origins and destinations of many of the people that were forced to leave their homes. It is a the same time a rich historical archive of images, videos, and audio interviews, as well as a detailed mapping platform visualizing the extent and magnitude of this tragedy.
+As part of the [AR For Everyone! project](https://browninstitute.github.io/ar-for-everyone/) we built a story map analyzing and visualizing the toll of the COVID-19 pandemic on businesses in New York State and New York City. For our base dataset we scraped New York State's [Worker Adjustment and Retaining Notification database](https://dol.ny.gov/warn-notices) and we analyzed it using Python. Using Mapbox's [storytelling template](https://browninstitute.github.io/ar-for-everyone/), we then created this walk through taking the viewer from the state level, to New York City, to a specific section of Midtown Manhattan, and then letting them explore its 3D model in augmented reality.
 
-Here are some frames from the piece. It starts with beautiful archival images.
+Here are some screenshots from the story:
 
-![Uprooted](../../../assets/projectImages/uprooted/uprooted1.png)
+![AR For Everyone screenshot](../../../assets/projectImages/arForEveryone/ar1.png)
 
-![Uprooted](../../../assets/projectImages/uprooted/uprooted2.png)
+![AR For Everyone screenshot](../../../assets/projectImages/arForEveryone/ar2.png)
 
-![Uprooted](../../../assets/projectImages/uprooted/uprooted3.png)
+![AR For Everyone screenshot](../../../assets/projectImages/arForEveryone/ar3.png)
 
-And it ends with a detailed mapping platform visualizing the paths of displacement and giving you access to more stories anchored in the neighborhood.
+![AR For Everyone screenshot](../../../assets/projectImages/arForEveryone/ar4.png)
 
-![Uprooted](../../../assets/projectImages/uprooted/uprooted4.png)
-
-![Uprooted](../../../assets/projectImages/uprooted/uprooted5.png)
-
-*Uprooted was built with [Mapbox](https://www.mapbox.com/) and [Juxtapose](https://juxtapose.knightlab.com/).*
+*AR For Everyone! was built with [Mapbox](https://www.mapbox.com/) and [Google's Model Viewer](https://modelviewer.dev/). View the project's code on [Github](https://github.com/browninstitute/ar-for-everyone/tree/gh-pages/map)*
