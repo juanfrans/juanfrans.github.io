@@ -56,10 +56,10 @@ Here's a more detailed version:
 #### RESEARCH PROJECTS
 
 * Urban Remediation Sites and Their Relation to Gentrification, a mapping, spatial analysis, and visualization project in collaboration with CUNY and Urban Omnibus, Saldarriaga, J., Checker, M., Mogilevich, M., Johnson, G., 2021 - present.
-* Dismantling Global Hindutva Analysis, a data analysis project examining social media activity around the Dismantling Global Hindutva conference, Ahmed, M., Saldarriaga, J., Devulapalli, S., 2021 - present.
+* [Targeted Harassment of Academics by Hindutva: A Twitter Analysis of the India-US Connection](https://dgh-tweet-study.github.io/), a data analysis project examining social media activity around the Dismantling Global Hindutva conference, Ahmed, M., Saldarriaga, J., Devulapalli, S., 2021 - present.
 * [Uprooted: How Newark Acquired a Medical School and Destroyed a Neighborhood](https://newestamericans.com/universityHeights/), a visual storytelling and interactive mapping project chronicling forced displacement in Newark, NJ, Newest Americans, Saldarriaga, J., 2020 - 2021.
-* Muslims in India, a project documenting, analyzing and visualizing the state of the Muslim population in India, Hankel, B., Jaffrelot, C., Ahmed, M., Saldarriaga, J., 2021.
-* AR for Everyone! Experiencing Augmented Reality News Stories in the Browser, an exploration in and documentation of combining mapping and augmented reality to create news stories for the browser, Schneider, Z., Saldarriaga, J., Aneja, S., 2021.
+* [Indian Muslims Today](https://muslims-in-india.github.io/), a project documenting, analyzing and visualizing the state of the Muslim population in India, Hankel, B., Jaffrelot, C., Ahmed, M., Saldarriaga, J., 2021.
+* [AR for Everyone! Experiencing Augmented Reality News Stories in the Browser](https://browninstitute.github.io/ar-for-everyone/), an exploration in and documentation of combining mapping and augmented reality to create news stories for the browser, Schneider, Z., Saldarriaga, J., Aneja, S., 2021.
 * Analyzing Choice of Transportation in New York City During Covid-19, a data analysis, visualization and mapping project looking into the changes in transportation patterns in New York City during the Covid-19 pandemic. Saldarriaga, J., King, D., 2020 - 2021.
 * [Mapping Data Flows](https://mappingdataflows.com/), a visual exploration of the types of data collected by Amazon, Apple, Facebook, and Google, and what they use it for. Battelle, J., Saldarriaga, J., Martin, Z., Albasi, M., Bhuta, N., Penney, V., 2018 - 2019.
 * Counting and Mapping Police Killings, a statistical and mapping investigation into extra- judicial killings in the Philippines, Coronel, S., Ball, P., Saldarriaga, J., Security Forces Monitor, 2018 - 2019.
