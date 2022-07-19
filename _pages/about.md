@@ -99,7 +99,7 @@ Here's a more detailed version:
 
 #### CONFERENCE PARTICIPATION
 
-* [Exploring and Mapping NYC's Building Energy Data Through Programming](https://2022.open-data.nyc/event/exploring-and-mapping-nycs-building-energy-data-through-programming/), workshop session presented during the [2022 NYC Open Data Week](https://www.open-data.nyc/), New York, 2022.
+* [Exploring and Mapping NYC's Building Energy Data Through Programming](https://www.youtube.com/watch?v=PEEgFHb_-Dk&list=PLgCe1KzF20ix44ATnYYiGtM5TTWISQ45I&index=24), workshop session presented during the [2022 NYC Open Data Week](https://www.open-data.nyc/), New York, 2022.
 * Points Unknown - Reflections from 4 years of Teaching Cartographic Narratives, presented at the [North American Cartographic Association Annual Meeting](https://www.youtube.com/watch?v=EK2PMtd-T_4), Oklahoma City, Oklahoma, 2021.
 * Conflict Urbanism: Colombia - The Memory of a Conflict Through a Single Dataset, presented at the [Visualization and the Holocaust](http://www.dukewired.org/visualization-and-the-holocaust/) conference, Nasher Museum of Art at Duke University, Durham, North Carolina, 2019.
 * Mapping and Data Analysis of Forced Displacement, presentation at the [Build Peace](https://howtobuildpeace.org/bp2017/) conference, Bogotá, Colombia, 2017.
