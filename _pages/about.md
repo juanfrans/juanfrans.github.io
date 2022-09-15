@@ -4,9 +4,9 @@ permalink: /about/
 title: About
 ---
 
-The short version is I'm a researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University.
+I am a Computational Designer at Google, currently working on [Delve](https://www.sidewalklabs.com/products/delve). Previously, I was the Senior Data & Design Researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University.
 
-I work at the intersection of data, GIS, visualization, journalism, architecture, urbanism, and the humanities, and I teach graduate level [workshops and seminars](https://github.com/juanfrans-courses) on mapping, advanced GIS and data visualization. In the past I've worked as a research scholar at the [Center for Spatial Research](http://c4sr.columbia.edu/) and the [Spatial Information Design Lab](http://spatialinformationdesignlab.org/), as an architectural designer for [Carlos Zapata Studio](https://www.cz-studio.com/) and D.G.T. Architects, and as the GIS project coordinator for the [Catholic Charities of New York](https://catholiccharitiesny.org/).
+I work at the intersection of data, visualization, urbanism, and the humanities, and I teach graduate level [workshops and seminars](https://github.com/juanfrans-courses) on mapping, advanced GIS and data visualization. I've also worked as a research scholar at the [Center for Spatial Research](http://c4sr.columbia.edu/) and the [Spatial Information Design Lab](http://spatialinformationdesignlab.org/), as an architectural designer for [Carlos Zapata Studio](https://www.cz-studio.com/) and D.G.T. Architects, and as the GIS project coordinator for the [Catholic Charities of New York](https://catholiccharitiesny.org/).
 
 Here's a more detailed version:
 
@@ -18,7 +18,8 @@ Here's a more detailed version:
 
 #### PROFESSIONAL APPOINTMENTS
 
-* Columbia University in the City of New York, School of Journalism, [Brown Institute for Media Innovation](https://brown.columbia.edu/), Senior Data and Design Researcher, 2018 - Present.
+* Google, [Sidewalk Labs](https://www.sidewalklabs.com/), Computational Designer, 2022 - Present.
+* Columbia University in the City of New York, School of Journalism, [Brown Institute for Media Innovation](https://brown.columbia.edu/), Senior Data and Design Researcher, 2018 - 2022.
 * Columbia University in the City of New York, [Graduate School of Architecture, Planning and Preservation](https://www.arch.columbia.edu/), Adjunct Assistant Professor, 2013 - Present.
 * Columbia University in the City of New York, Graduate School of Architecture, Planning and Preservation, [Center for Spatial Research](http://c4sr.columbia.edu/), Mellon Research Scholar, 2015 - 2018.
 * Columbia University in the City of New York, Graduate School of Architecture, Planning and Preservation, [Spatial Information Design Lab](http://spatialinformationdesignlab.org/), Associate Research Scholar, 2013 - 2015.
@@ -55,7 +56,7 @@ Here's a more detailed version:
 
 #### RESEARCH PROJECTS
 
-* Urban Remediation Sites and Their Relation to Gentrification, a mapping, spatial analysis, and visualization project in collaboration with CUNY and Urban Omnibus, Saldarriaga, J., Checker, M., Mogilevich, M., Johnson, G., 2021 - present.
+* [Concentrated Cleanup](https://urbanomnibus.net/2022/08/concentrated-cleanup/), a mapping, spatial analysis, and visualization project in collaboration with CUNY and Urban Omnibus, Saldarriaga, J., Checker, M., Mogilevich, M., Johnson, G., 2021 - present.
 * [Targeted Harassment of Academics by Hindutva: A Twitter Analysis of the India-US Connection](https://dgh-tweet-study.github.io/), a data analysis project examining social media activity around the Dismantling Global Hindutva conference, Ahmed, M., Saldarriaga, J., Devulapalli, S., 2021 - present.
 * [Uprooted: How Newark Acquired a Medical School and Destroyed a Neighborhood](https://newestamericans.com/universityHeights/), a visual storytelling and interactive mapping project chronicling forced displacement in Newark, NJ, Newest Americans, Saldarriaga, J., 2020 - 2021.
 * [Indian Muslims Today](https://muslims-in-india.github.io/), a project documenting, analyzing and visualizing the state of the Muslim population in India, Hankel, B., Jaffrelot, C., Ahmed, M., Saldarriaga, J., 2021.
