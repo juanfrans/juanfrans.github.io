@@ -4,7 +4,7 @@ permalink: /about/
 title: About
 ---
 
-I am a Computational Designer at Google, currently working on [Delve](https://www.sidewalklabs.com/products/delve). Previously, I was the Senior Data & Design Researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University.
+I am a Senior Computational Designer at Google, currently working on [Earth](https://earth.google.com). Previously, I was the Senior Data & Design Researcher at the [Brown Institute for Media Innovation](https://brown.columbia.edu/) at Columbia University.
 
 I work at the intersection of data, visualization, urbanism, and the humanities, and I teach graduate level [workshops and seminars](https://github.com/juanfrans-courses) on mapping, advanced GIS and data visualization. I've also worked as a research scholar at the [Center for Spatial Research](http://c4sr.columbia.edu/) and the [Spatial Information Design Lab](http://spatialinformationdesignlab.org/), as an architectural designer for [Carlos Zapata Studio](https://www.cz-studio.com/) and D.G.T. Architects, and as the GIS project coordinator for the [Catholic Charities of New York](https://catholiccharitiesny.org/).
 
@@ -18,7 +18,7 @@ Here's a more detailed version:
 
 #### PROFESSIONAL APPOINTMENTS
 
-* Google, [Sidewalk Labs](https://www.sidewalklabs.com/), Computational Designer, 2022 - Present.
+* Google, [Earth](https://earth.google.com), Senior Computational Designer, 2022 - Present.
 * Columbia University in the City of New York, School of Journalism, [Brown Institute for Media Innovation](https://brown.columbia.edu/), Senior Data and Design Researcher, 2018 - 2022.
 * Columbia University in the City of New York, [Graduate School of Architecture, Planning and Preservation](https://www.arch.columbia.edu/), Adjunct Assistant Professor, 2013 - Present.
 * Columbia University in the City of New York, Graduate School of Architecture, Planning and Preservation, [Center for Spatial Research](http://c4sr.columbia.edu/), Mellon Research Scholar, 2015 - 2018.
@@ -36,6 +36,7 @@ Here's a more detailed version:
 
 #### PEER REVIEWED PUBLICATIONS
 
+* [Evidence of environmental gentrification in New York City](https://www.sciencedirect.com/science/article/pii/S0264275125009205), Johnson Glen D., Checker Melissa, Saldarriaga Juan Francisco, published in Cities, Volume 170, 2026.
 * [A Gravity Model Analysis Of Forced Displacement In Colombia](https://www.sciencedirect.com/science/article/pii/S0264275118311363), Saldarriaga, J., Yuan, H., published in Cities, Volume 95, 2019.
 * [Measuring Changes In Taxi Trips Near Infill Development And Issues For Curbside Management Of For-Hire Vehicles](https://www.sciencedirect.com/science/article/pii/S2210539517301219), Saldarriaga, J., King, D., published in Research in Transportation Business & Management, 2018.
 * [Spatial Regulation Of Taxicab Services: Measuring Excess Travel From New York City](https://www.jtlu.org/index.php/jtlu/article/view/1063), Saldarriaga, J., King, D., published in the Journal of Transport and Land Use, Volume 11 No. 1, 2018.
@@ -122,6 +123,7 @@ Here's a more detailed version:
 
 #### TEACHING EXPERIENCE
 
+* [Threads - Storytelling with Maps and Data](https://github.com/juanfrans-courses/threads-storytelling-with-maps-and-data), full semester graduate course teaching students how to transform urban data into compelling visual narratives (Master of Science, Advanced Urban Design at Cornell University, Spring 2025).
 * [Points Unknown: New Frameworks for Investigation and Creative Expression Through Mapping](https://pointsunknown.nyc/), four and five week workshops and full semester graduate course combining mapping, narrative and storytelling for the School of Journalism and the Graduate School of Architecture, Planning and Preservation (Columbia University, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020, Spring 2021, Summer 2021, Spring 2022).
 * Cartografías Sociales, a 7 week course introducing professional architects and urban planners to new methods in spatial data analysis, mapping, and representation (Institute for Advanced Architecture of Catalonia, Spring 2022).
 * [Introduction to Computational Journalism](https://github.com/juanfrans-courses/intro_computational_journalism), an introductory five-day workshop on tools, methods, and concepts such as programming, reproducible research, web scraping, and APIs, for professional journalists from the European Broadcasting Union (Columbia University, Summer 2019).
