@@ -7,7 +7,7 @@ shortDescription: We’ve transformed the terms of service and data policies of 
 interactiveSite:
   - 
     name: Mapping Data Flows
-    url: https://mappingdataflows.com/
+    url: http://juanfrans.com/mappingDataFlows/
 mainImagePath: assets/projectImages/mappingDataFlows/mappingDataFlows_main.png
 ---
 *Mapping Data Flows is a collaboration between John Battelle (Co-Founder and CEO of [Recount Media](https://therecount.com/)), the [Brown Institute for Media Innovation](https://brown.columbia.edu/) and the [Technology and Policy Initiative](https://sipa.columbia.edu/ideas-lab/techpolicy) at SIPA, Columbia University. Its team includes John Battelle, Juan Francisco Saldarriaga, Zoe Martin, Matthew Albasi, Natasha Bhuta, and Veronica Penney.*
