@@ -1,15 +1,26 @@
 # Site settings
 title: Juan Francisco Saldarriaga
 email: juanfrans@gmail.com
-github: https://github.com/juanfrans
-twitter: https://twitter.com/juanfrans
-author: Juan Francisco Saldarriaga
-description: ''
+author:
+  name: Juan Francisco Saldarriaga
+  twitter: juanfrans
+  github: juanfrans
+description: "Juan Francisco Saldarriaga is a Senior Computational Designer at Google Earth. He works at the intersection of data, visualization, urbanism, and the humanities, teaching mapping and advanced GIS at Columbia University. He lives, works, and maps in New York City."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://juanfrans.com
 google_analytics: UA-27897156-5 
-# twitter_username: jekyllrb
-# github_username:  jekyll
+lang: en_US
+
+github: https://github.com/juanfrans
+twitter: https://twitter.com/juanfrans
+twitter_username: juanfrans
+github_username: juanfrans
+
+social:
+  name: Juan Francisco Saldarriaga
+  links:
+    - https://twitter.com/juanfrans
+    - https://github.com/juanfrans
 
 # Required if you want to move pages into a a separate directory
 include: ['_pages']
@@ -22,6 +33,8 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
