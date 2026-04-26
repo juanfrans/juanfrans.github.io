@@ -19,7 +19,7 @@ layout: default
         {% for post in site.posts limit:3 offset:offset %}
           <div class="fl w-100 w-third-ns pr3-ns">
             <a href="{{ post.url | relative_url }}">
-              <img src="{{ post.thumbImagePath | relative_url }}" class="mb2" alt="{{ post.title }}">
+              <img src="{{ post.thumbImagePath | relative_url }}" class="mb2" alt="{{ post.title }}" loading="lazy">
               <p class="post-link pt2 mb2">{{ post.title | upcase | escape }}</p>
               <p class="f7-ns pb3">{{ post.shortDescription }}</p>
             </a>

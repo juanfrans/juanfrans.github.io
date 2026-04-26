@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<div>
+<article>
   {% if page.mainImagePath %}
-    <img src="{{ page.mainImagePath | relative_url }}" alt="{{ page.title }}">
+    <img src="{{ page.mainImagePath | relative_url }}" alt="{{ page.title }}" loading="lazy">
   {% endif %}
   {% if page.mainVideoPath %}
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="{{ page.mainVideoPath }}"
@@ -27,4 +27,4 @@ layout: default
   <div class="roboto f5">
     {{ content }}
   </div>
-</div>
+</article>
